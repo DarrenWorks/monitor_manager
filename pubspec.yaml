@@ -37,7 +37,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   
   get: ^4.6.5
-  webview_flutter: ^4.0.7
+#  webview_cef: ^0.0.8
+  url_launcher: ^6.1.10
+  sqflite_common: ^2.4.3
+  sqflite_common_ffi: ^2.2.3
 
 dev_dependencies:
   flutter_test:
